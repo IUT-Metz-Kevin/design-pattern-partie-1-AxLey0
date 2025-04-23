@@ -1,4 +1,4 @@
-import { GameSettings } from "../scenarios/scen_1.ts";
+import { GameSettings } from "../src/scenario_A.ts";
 
 const settings = GameSettings.getInstance();
 
